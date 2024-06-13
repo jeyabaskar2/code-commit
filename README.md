@@ -45,4 +45,5 @@ This script is designed to manage passwords for AWS CodeCommit accounts using th
 4. Run the script:
    ```
    $ ./manage_codecommit_passwords.sh
+   
    ```
